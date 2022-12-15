@@ -1,0 +1,14 @@
+01 December 15:00 LAX 20:22 DFW	Layover 250 
+30 November 18:05 LAX 19:29 DFW Direct 400 
+29 November 20:00 DFW 11:41 LAX	Layover 225 
+28 November 09:05 LAX 14:10 DFW Direct 350 
+27 November 19:00 DFW 20:18 LAX Direct 325 
+26 November 06:00 DFW 11:02 LAX Layover 225 
+25 November 11:45 DFW 15:02 LAX	Layover 220 
+24 November 06:00 LAX 11:01 DFW Direct 450 
+23 November 19:00 LAX 11:40 DFW	Layover 280 
+22 November 14:00 LAX 15:18 DFW Direct 375 
+21 November 11:00 DFW 15:58 LAX	Layover 300 
+20 November 15:26 LAX 20:27 DFW Direct 225 
+19 November 06:17 DFW 07:35 LAX Direct 220 
+18 November 17:00 LAX 22:26 DFW	Layover 210 
