@@ -1,0 +1,15 @@
+22   NOV   1400   LAX   1518   DFW    Direct-    375
+27   NOV   1900   DFW   2018   LAX    Direct-    325
+26   NOV   0600   DFW   0702   LAX    Layover    225
+23   NOV   1900   LAX   1140   DFW	  Layover    280
+21   NOV   1100   DFW   1558   LAX	  Layover    300
+29   NOV   2000   LAX   2118   DFW    Direct-    380
+25   NOV   1145   DFW   1502   LAX	  Layover    220
+24   NOV   0600   LAX   1101   DFW    Direct-    450
+28   NOV   1600   LAX   2101   DFW    Direct-    385
+16   NOV   1805   LAX   1929   DFW    Direct-    400
+20   NOV   1100   DFW   1558   LAX    Layover    325
+30   NOV   1200   LAX   1400   DFW    Layover    270
+19   NOV   1900   LAX   1140   DFW    Layover    270
+18   NOV   1600   DFW   1700   LAX    Direct-    360
+17   NOV   0700   DFW  815     LAX    Direct-    330
