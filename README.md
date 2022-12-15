@@ -1,5 +1,10 @@
-# CS441Project
-This repository hold the code for our CS441-SoftwareEngineering group project which is being worked on by 
+# CS441 Project Repo
+CS441 - SoftwareEngineering group project which was developed by:
 Lance D. 
 Bradley T. 
 Lawrence S.
+
+Contents: 
+- Documents
+- Prototype Versions
+- Final Working Program
